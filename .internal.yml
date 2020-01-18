@@ -14,3 +14,10 @@ default:
         - "Demo Content|Python"
       url: "/python/sentiment-analysis/"
       image: "sentiment-analysis/spacy_logo.jpg"
+    - name: "Jupyter Notebook - Interactive Visualization"
+      path: "./jupyter-interactive-visualization"
+      description: "A jupyter notebook with interactive JavaScript visualizations. Published in source form so that it can be executed on a schedule."
+      tag:
+        - "Demo Content|Python"
+      url: "/python/jupyter-interactive/"
+      image: "./jupyter_logo.png"
